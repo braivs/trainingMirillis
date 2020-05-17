@@ -67,11 +67,11 @@ main .mw-100 {
   display: block;
   margin: 0 auto;
 }
-main .advantages__conatainer {
+main .advantages__container {
   display: flex;
   justify-content: center;
 }
-main .advantages__conatainer .advantages {
+main .advantages__container .advantages {
   padding-top: 40px;
   padding-bottom: 40px;
   width: 70%;
@@ -80,7 +80,7 @@ main .advantages__conatainer .advantages {
   text-align: center;
   flex-wrap: wrap;
 }
-main .advantages__conatainer .advantages__item {
+main .advantages__container .advantages__item {
   width: 30%;
 }
 
